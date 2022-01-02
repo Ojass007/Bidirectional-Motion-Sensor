@@ -1,4 +1,3 @@
-# Bidirectional-Motion-Sensor
 IOT Online Project
 
 The project was completed on Online Website Tinkercad(https://www.tinkercad.com)
